@@ -1782,7 +1782,7 @@ h1 {
 }
 
 #navgation .nav-wrapper .nav {
-	width: 100%;
+	width: 50%;
 	position: fixed;
 	top: 50%;
 	margin-top: -150px;
